@@ -1,0 +1,46 @@
+﻿Build started 4/26/2013 2:18:29 AM.
+     1>Project "C:\Users\gopichan\code\vc\Racer2D\Racer2D\Racer2D.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /IC:\Users\gopichan\code\vc\Racer2D\Racer2D\ /IDebug\ /IC:\Users\gopichan\code\vc\Racer2D\Racer2D\ /I"Generated Files\\" /IDebug\ /ZI /ZW /ZW:nostdlib /nologo /W3 /WX- /sdl /MP /Od /Oy- /D _DEBUG /D _UNICODE /D UNICODE /D _DEBUG /D WINAPI_FAMILY=WINAPI_FAMILY_APP /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"pch.h" /Fp"Debug\pch.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /wd4453 /FU"C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.VCLibs\11.0\References\CommonConfiguration\neutral\platform.winmd" /FU"C:\Program Files (x86)\Windows Kits\8.0\References\CommonConfiguration\Neutral\Windows.winmd" /FU"C:\Program Files (x86)\Windows Kits\8.0\References\CommonConfiguration\Neutral\Windows.winmd" /analyze- /errorReport:prompt MenuView.cpp
+         MenuView.cpp
+       CreateWinMD:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\gopichan\code\vc\Racer2D\Debug\Racer2D\Racer2D.exe" /INCREMENTAL /NOLOGO d2d1.lib d3d11.lib dxgi.lib ole32.lib windowscodecs.lib dwrite.lib dxguid.lib kernel32.lib /MANIFEST:NO /DEBUG /PDB:"C:\Users\gopichan\code\vc\Racer2D\Debug\Racer2D\Racer2D.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /APPCONTAINER /WINMD:ONLY /WINMDFILE:"C:\Users\gopichan\code\vc\Racer2D\Debug\Racer2D\Racer2D.winmd" /DYNAMICBASE /NXCOMPAT /MACHINE:X86 Debug\AnimationStoryBoard.obj
+         Debug\AnimationUtil.obj
+         Debug\DirectXRenderer.obj
+         Debug\GameObject.obj
+         Debug\GameView.obj
+         Debug\Animation.obj
+         Debug\AnimationSequence.obj
+         Debug\MenuView.obj
+         Debug\MoveAnimation.obj
+         Debug\SimpleTextRenderer.obj
+         Debug\DirectXBase.obj
+         Debug\App.xaml.obj
+         Debug\DirectXPage.xaml.obj
+         Debug\pch.obj
+         Debug\ViewController.obj
+         Debug\XamlTypeInfo.Impl.g.obj
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\gopichan\code\vc\Racer2D\Debug\Racer2D\Racer2D.exe" /INCREMENTAL /NOLOGO d2d1.lib d3d11.lib dxgi.lib ole32.lib windowscodecs.lib dwrite.lib dxguid.lib kernel32.lib /MANIFEST:NO /DEBUG /PDB:"C:\Users\gopichan\code\vc\Racer2D\Debug\Racer2D\Racer2D.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /APPCONTAINER /WINMD:NO /WINMDFILE:"C:\Users\gopichan\code\vc\Racer2D\Debug\Racer2D\Racer2D.winmd" /DYNAMICBASE /NXCOMPAT /MACHINE:X86 Debug\AnimationStoryBoard.obj
+         Debug\AnimationUtil.obj
+         Debug\DirectXRenderer.obj
+         Debug\GameObject.obj
+         Debug\GameView.obj
+         Debug\Animation.obj
+         Debug\AnimationSequence.obj
+         Debug\MenuView.obj
+         Debug\MoveAnimation.obj
+         Debug\SimpleTextRenderer.obj
+         Debug\DirectXBase.obj
+         Debug\App.xaml.obj
+         Debug\DirectXPage.xaml.obj
+         Debug\pch.obj
+         Debug\ViewController.obj
+         Debug\XamlTypeInfo.Impl.g.obj
+         Debug\XamlTypeInfo.g.obj
+         Racer2D.vcxproj -> C:\Users\gopichan\code\vc\Racer2D\Debug\Racer2D\Racer2D.exe
+     1>Done Building Project "C:\Users\gopichan\code\vc\Racer2D\Racer2D\Racer2D.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.12
